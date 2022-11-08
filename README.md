@@ -19,6 +19,6 @@ I am currently pursuing masters in DevOps at Atlantic Technological university.<
 <a href="https://linkedin.com/in/surendran-gopinathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surendran-gopinathan" height="30" width="40" /></a>
 </p>
 
-![Website](https://img.shields.io/badge/Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](https://surendranportfolio.github.io/Menu/)
+[![Website](https://img.shields.io/badge/Website-%23082E4E.svg?style=for-the-badge&textColor=EAB41F)](https://surendranportfolio.github.io/Menu/)]
 
 
