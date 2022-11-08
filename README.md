@@ -1,3 +1,5 @@
+![](https://github.com/Surendran17/Private-Bag/blob/master/hello-world.gif)
+
 # 💫 About Me:
 :confetti_ball: I am currently pursuing masters in DevOps at Atlantic Technological university. 
  <br> :sparkles: I worked for four years as a Java backend dev at Accenture.
