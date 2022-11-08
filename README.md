@@ -12,4 +12,8 @@ I am currently pursuing masters in DevOps at Atlantic Technological university.<
 ---
 [![](https://visitcount.itsvg.in/api?id=surendran17&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/surendran-gopinathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surendran-gopinathan" height="30" width="40" /></a>
+</p>
+---
