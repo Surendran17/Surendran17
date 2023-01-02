@@ -3,7 +3,7 @@
 # 💫 About Me:
 :confetti_ball: I am currently pursuing masters in DevOps at Atlantic Technological university. 
  <br> :sparkles: I worked for four years as a Java backend dev at Accenture.
- <br> :sparkler: I am exploring the DevOps space and am eager to learn new technologies.
+ <br> :sparkler: I am exploring the DevOps space and excited to learn new technologies.
 <br> :reminder_ribbon: Currently I am preparing to get certified as AWS solutions architect.<br><br><br><br>
 
 
